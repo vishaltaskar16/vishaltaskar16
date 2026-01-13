@@ -102,7 +102,7 @@
 
 ### **🎯 Technical Proficiency Levels**
 ```text
-★★★★★ Python, PHP, HTML/CSS, MySQL, Git
+★★★★☆ Python, PHP, HTML/CSS, MySQL, Git
 ★★★★☆ Java, JavaScript, Flask, React Native, MongoDB
 ★★★★☆ Laravel, Node.js, Bootstrap, Tableau
 ★★★☆☆ TensorFlow, PyTorch, Spring, AWS, Docker
