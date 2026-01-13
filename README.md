@@ -1,5 +1,3 @@
-# 🚀 **Vishal Taskar** | Full-Stack Developer & ML Enthusiast
-
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Vishal%20Taskar&fontSize=60&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20MCA%20Student%20%7C%20Tech%20Educator&descAlignY=55&descSize=22" alt="Header" />
@@ -8,7 +6,7 @@
     <img src="https://img.shields.io/badge/🚀-Full_Stack_Developer-FF6B6B?style=for-the-badge" alt="Full Stack" />
     <img src="https://img.shields.io/badge/🤖-ML_Enthusiast-4ECDC4?style=for-the-badge" alt="ML Enthusiast" />
     <img src="https://img.shields.io/badge/🎓-MCA_Student-45B7D1?style=for-the-badge" alt="MCA Student" />
-    <img src="https://img.shields.io/badge/📢-Tech_Educator-96CEB4?style=for-the-badge" alt="Tech Educator" />
+    <img src="https://img.shields.io/badge/📢-Freelancer-96CEB4?style=for-the-badge" alt="Tech Educator" />
   </div>
 
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
@@ -19,14 +17,14 @@
 
   <br/>
 
-  **Transforming ideas into impactful digital solutions through code, creativity, and continuous learning.**
+  I'm a passionate **Master of Computer Applications (MCA) student** with a strong foundation in **full-stack web development** and a growing expertise in **machine learning**. My journey in technology is driven by a relentless curiosity to solve complex problems and create digital solutions that make a tangible impact.
 
   <br/>
   
   [![Resume](https://img.shields.io/badge/📄_View_Full_Resume-E4405F?style=for-the-badge&logo=googledocs)](https://drive.google.com/file/d/1KunhmNBvX6fQDjKGvs1_vBMOJ-4ulbmA/view)
   [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishaltaskar16)
-  [![Email](https://img.shields.io/badge/📧_vishaltaskar16@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:vishaltaskar16@gmail.com)
-  [![Telegram](https://img.shields.io/badge/📢_Programming_Channel-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/cprogramingbyvishal)
+  [![Email](https://img.shields.io/badge/📧_Connect_with_Email-D14836?style=for-the-badge&logo=gmail)](mailto:vishaltaskar16@gmail.com)
+  [![Telegram](https://img.shields.io/badge/📢_Tellegram_Channel-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/cprogramingbyvishal)
 
 </div>
 
@@ -115,10 +113,14 @@
 <div align="center">
 
 ### **📈 Activity Overview**
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishaltaskar16&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+[![View GitHub Profile](https://img.shields.io/badge/View-GitHub%20Profile-181717?logo=github&style=for-the-badge)](https://github.com/vishaltaskar16)
+
 
 ### **💻 Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaltaskar16&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+[![Top Language](https://img.shields.io/github/languages/top/vishaltaskar16/vishaltaskar16?style=flat-square)](https://github.com/vishaltaskar16?tab=repositories)
+
 
 ### **🔥 Contribution Streak**
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vishaltaskar16&theme=radical&hide_border=true&currStreakLabel=FF6B6B)
@@ -127,15 +129,14 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishaltaskar16&theme=github-compact&hide_border=true&area=true&color=FF6B6B&line=4ECDC4&point=45B7D1)
 
 ### **🏆 Trophy Case**
-![trophy](https://github-profile-trophy.vercel.app/?username=vishaltaskar16&theme=radical&no-frame=true&row=2&column=4)
+
+[![Trophies](https://img.shields.io/badge/Trophies-View-orange?style=for-the-badge&logo=trophy)](https://github-profile-trophy.vercel.app/?username=vishaltaskar16&theme=radical&no-frame=true&row=2&column=4)
+
+
 
 </div>
 
 ---
-
-## 👨‍💻 **About Me**
-
-I'm a passionate **Master of Computer Applications (MCA) student** with a strong foundation in **full-stack web development** and a growing expertise in **machine learning**. My journey in technology is driven by a relentless curiosity to solve complex problems and create digital solutions that make a tangible impact.
 
 ### **🌟 Professional Identity**
 ```text
