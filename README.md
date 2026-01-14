@@ -98,13 +98,96 @@
 
 </div>
 
-### **🎯 Technical Proficiency Levels**
-```text
-★★★★☆ Python, PHP, HTML/CSS, MySQL, Git
-★★★★☆ Java, JavaScript, Flask, React Native, MongoDB
-★★★★☆ Laravel, Node.js, Bootstrap, Tableau
-★★★☆☆ TensorFlow, PyTorch, Spring, AWS, Docker
-```
+---
+
+<div align="center">
+  <h2 style="font-size:32px;margin-bottom:30px;
+  background:linear-gradient(90deg,#667eea,#f093fb,#4facfe);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;">
+  🎯 Technical Proficiency Levels</h2>
+
+  <table style="width:100%;border-collapse:collapse;background:#0d1117;
+  border-radius:15px;overflow:hidden;box-shadow:0 10px 30px rgba(0,0,0,.4);">
+    <thead>
+      <tr style="background:linear-gradient(90deg,#1a1f35,#2d1b35,#1a2f35);">
+        <th style="padding:20px;color:white;font-size:20px;">⭐ Level</th>
+        <th style="padding:20px;color:white;font-size:20px;">🛠 Skills</th>
+        <th style="padding:20px;color:white;font-size:20px;">📊 Rating</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Expert -->
+      <tr style="background:linear-gradient(90deg,rgba(102,126,234,.1),rgba(118,75,162,.1));">
+        <td align="center"><h3 style="color:white;">Expert</h3><p style="color:#aaa;">★★★★☆</p></td>
+        <td>
+          <div style="display:flex;flex-wrap:wrap;gap:8px;">
+            <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+            <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+            <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+            <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+            <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+          </div>
+        </td>
+        <td align="center">
+          <div style="width:110px;height:110px;border-radius:50%;
+          background:conic-gradient(#667eea 0% 90%,#333 90%);
+          display:flex;align-items:center;justify-content:center;">
+            <div style="width:70px;height:70px;border-radius:50%;background:#0d1117;
+            display:flex;align-items:center;justify-content:center;">
+              <span style="color:#667eea;font-size:22px;font-weight:bold;">90%</span>
+            </div>
+          </div>
+        </td>
+      </tr>
+      <!-- Proficient -->
+      <tr style="background:linear-gradient(90deg,rgba(240,147,251,.1),rgba(245,87,108,.1));">
+        <td align="center"><h3 style="color:white;">Proficient</h3><p style="color:#aaa;">★★★★☆</p></td>
+        <td>
+          <div style="display:flex;flex-wrap:wrap;gap:8px;">
+            <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
+            <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+            <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+            <a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>
+          </div>
+        </td>
+        <td align="center">
+          <div style="width:110px;height:110px;border-radius:50%;
+          background:conic-gradient(#f093fb 0% 90%,#333 90%);
+          display:flex;align-items:center;justify-content:center;">
+            <div style="width:70px;height:70px;border-radius:50%;background:#0d1117;
+            display:flex;align-items:center;justify-content:center;">
+              <span style="color:#f093fb;font-size:22px;font-weight:bold;">90%</span>
+            </div>
+          </div>
+        </td>
+      </tr>
+      <!-- Intermediate -->
+      <tr style="background:linear-gradient(90deg,rgba(79,172,254,.1),rgba(0,242,254,.1));">
+        <td align="center"><h3 style="color:white;">Intermediate</h3><p style="color:#aaa;">★★★☆☆</p></td>
+        <td>
+          <div style="display:flex;flex-wrap:wrap;gap:8px;">
+            <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+            <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+            <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+            <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+            <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+          </div>
+        </td>
+        <td align="center">
+          <div style="width:110px;height:110px;border-radius:50%;
+          background:conic-gradient(#4facfe 0% 80%,#333 80%);
+          display:flex;align-items:center;justify-content:center;">
+            <div style="width:70px;height:70px;border-radius:50%;background:#0d1117;
+            display:flex;align-items:center;justify-content:center;">
+              <span style="color:#4facfe;font-size:22px;font-weight:bold;">80%</span>
+            </div>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
@@ -112,29 +195,20 @@
 
 <div align="center">
 
-### **📈 Activity Overview**
+<h3>🔥 Contribution Streak</h3>
+<img src="https://streak-stats.demolab.com/api?user=vishaltaskar16&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-[![View GitHub Profile](https://img.shields.io/badge/View-GitHub%20Profile-181717?logo=github&style=for-the-badge)](https://github.com/vishaltaskar16)
+<h3>📊 Contribution Graph</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishaltaskar16&theme=github-compact&hide_border=true&area=true&color=FF6B6B&line=4ECDC4&point=45B7D1" />
 
-
-### **💻 Top Languages**
-
-[![Top Language](https://img.shields.io/github/languages/top/vishaltaskar16/vishaltaskar16?style=flat-square)](https://github.com/vishaltaskar16?tab=repositories)
-
-
-### **🔥 Contribution Streak**
-![GitHub Streak](https://streak-stats.demolab.com/?user=vishaltaskar16&theme=radical&hide_border=true&currStreakLabel=FF6B6B)
-
-### **📊 Contribution Graph**
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishaltaskar16&theme=github-compact&hide_border=true&area=true&color=FF6B6B&line=4ECDC4&point=45B7D1)
-
-### **🏆 Trophy Case**
-
-[![Trophies](https://img.shields.io/badge/Trophies-View-orange?style=for-the-badge&logo=trophy)](https://github-profile-trophy.vercel.app/?username=vishaltaskar16&theme=radical&no-frame=true&row=2&column=4)
-
-
+<h3>🏆 Trophy Case</h3>
+<a href="https://github-profile-trophy.vercel.app/?username=vishaltaskar16&theme=radical&no-frame=true&row=2&column=4">
+  <img src="https://img.shields.io/badge/Trophies-View-orange?style=for-the-badge&logo=trophy" />
+</a>
 
 </div>
+
+
 
 ---
 
