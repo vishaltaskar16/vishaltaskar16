@@ -309,7 +309,7 @@
 
   [![Email Contact](https://img.shields.io/badge/📧_EMAIL_ME-vishaltaskar16@gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:vishaltaskar16@gmail.com)
   [![LinkedIn Connect](https://img.shields.io/badge/👔_LINKEDIN_PROFILE-Vishal_Taskar-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/vishaltaskar16)
-  [![GitHub Portfolio](https://img.shields.io/badge/💻_GITHUB_PORTFOLIO-vishaltaskar16-ffffff?style=for-the-badge&logo=github&logoColor=181717)](https://github.com/vishaltaskar16)
+  [![GitHub Portfolio](https://img.shields.io/badge/💻_GITHUB_PORTFOLIO-vishaltaskar16-ffffff?style=for-the-badge&logo=github&logoColor=181717)](https://portfolio-1-1nzc.onrender.com/)
   [![Telegram Channel](https://img.shields.io/badge/📢_TELEGRAM_CHANNEL-Programming_by_Vishal-ffffff?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/cprogramingbyvishal)
 
 </div>
