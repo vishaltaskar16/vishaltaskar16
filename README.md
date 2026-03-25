@@ -23,10 +23,10 @@
 
 [![Resume](https://img.shields.io/badge/📄_View_Full_Resume-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1KunhmNBvX6fQDjKGvs1_vBMOJ-4ulbmA/view)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishaltaskar16)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-F1C21B?style=for-the-badge&logo=netlify&logoColor=black)](https://vishaltaskar.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-F1C21B?style=for-the-badge&logo=netlify&logoColor=black)](https://portfolio-1-1nzc.onrender.com/)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishaltaskar16@gmail.com)
 [![Telegram](https://img.shields.io/badge/📢_Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cprogramingbyvishal)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/justforveee)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viiiforweee)
 
 </div>
 
