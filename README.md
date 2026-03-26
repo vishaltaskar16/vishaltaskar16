@@ -23,7 +23,7 @@
 
 [![Resume](https://img.shields.io/badge/📄_View_Full_Resume-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1KunhmNBvX6fQDjKGvs1_vBMOJ-4ulbmA/view)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishaltaskar16)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-F1C21B?style=for-the-badge&logo=netlify&logoColor=black)](https://portfolio-1-1nzc.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-F1C21B?style=for-the-badge&logo=netlify&logoColor=black)](https://portfolio-xayz.onrender.com)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishaltaskar16@gmail.com)
 [![Telegram](https://img.shields.io/badge/📢_Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cprogramingbyvishal)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viiiforweee)
@@ -309,7 +309,7 @@
 
   [![Email Contact](https://img.shields.io/badge/📧_EMAIL_ME-vishaltaskar16@gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:vishaltaskar16@gmail.com)
   [![LinkedIn Connect](https://img.shields.io/badge/👔_LINKEDIN_PROFILE-Vishal_Taskar-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/vishaltaskar16)
-  [![GitHub Portfolio](https://img.shields.io/badge/💻_GITHUB_PORTFOLIO-vishaltaskar16-ffffff?style=for-the-badge&logo=github&logoColor=181717)](https://portfolio-1-1nzc.onrender.com/)
+  [![GitHub Portfolio](https://img.shields.io/badge/💻_GITHUB_PORTFOLIO-vishaltaskar16-ffffff?style=for-the-badge&logo=github&logoColor=181717)](https://portfolio-xayz.onrender.com)
   [![Telegram Channel](https://img.shields.io/badge/📢_TELEGRAM_CHANNEL-Programming_by_Vishal-ffffff?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/cprogramingbyvishal)
 
 </div>
