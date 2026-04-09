@@ -21,7 +21,7 @@
 
   <br/>
 
-[![Resume](https://img.shields.io/badge/📄_View_Full_Resume-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1KunhmNBvX6fQDjKGvs1_vBMOJ-4ulbmA/view)
+[![Resume](https://img.shields.io/badge/📄_View_Full_Resume-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1sKLNFwed9iCRVlpsK1hX4Vss6RRRBxlT/view)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishaltaskar16)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-F1C21B?style=for-the-badge&logo=netlify&logoColor=black)](https://portfolio-xayz.onrender.com)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishaltaskar16@gmail.com)
@@ -326,6 +326,6 @@
 <br/>
 
 *"Code is poetry, and every project is a story waiting to be told."*  
-**Last Updated: March 2025 | Crafted with 💻 and ❤️**
+**Last Updated: March 2026 | Crafted with 💻 and ❤️**
 
 </div>
